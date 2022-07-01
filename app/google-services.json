@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "408656651801",
+    "project_id": "customcalendar-65db8",
+    "storage_bucket": "customcalendar-65db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408656651801:android:d640db57b24c6c83022c88",
+        "android_client_info": {
+          "package_name": "com.example.customcalendar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "408656651801-r8fu3p6rvhsl1ojvl81k3lbdlva962av.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC40xtSZ0QBLvWaNJyhuVIGDW4q_gVPf_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "408656651801-r8fu3p6rvhsl1ojvl81k3lbdlva962av.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
