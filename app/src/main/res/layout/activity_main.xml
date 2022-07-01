@@ -5,7 +5,8 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:background="#FFFFFF">
 
     <!-- 달력 제목 -->
     <TextView
@@ -14,7 +15,8 @@
         android:layout_height="wrap_content"
         android:text="Month"
         android:textSize="30sp"
-        android:gravity="center"/>
+        android:textColor="#000000"
+        android:gravity="center" />
 
     <!-- 달력 요일 -->
     <LinearLayout
@@ -24,36 +26,43 @@
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Sun"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Mon"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Thu"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Wed"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Thur"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Fri"
+            android:textColor="#000000"
             android:gravity="center"/>
         <TextView
             android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:text="Sat"
+            android:textColor="#000000"
             android:gravity="center"/>
     </LinearLayout>
 
